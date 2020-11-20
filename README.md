@@ -1,6 +1,6 @@
 # admitt-orders
 
-Admit to GIL
-Place PIV
-Order General Diet
-Daily labs
+<BR> Admit to GIL
+<BR> Place PIV
+<BR> Order General Diet
+<BR> Daily labs
