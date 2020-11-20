@@ -7,4 +7,4 @@
 <BR> Rotate patient, place dignicare
 <BR> Residents 
 <BR> Daily labs
-<BR>
+<BR>VS Q30 minutes
