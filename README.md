@@ -1,8 +1,9 @@
 # admitt-orders
 
+Admission Orders:
 <BR> Admit to GIL
-<BR> Place PIV
-<BR> VS unstable
+<BR> -  Place PIV
+<BR> - VS unstable
 <BR> Rotate patient, place dignicare
 <BR> Residents 
 <BR> VS Q30 minutes
